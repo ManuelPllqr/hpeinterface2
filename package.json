@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "grommet": "^2.7.1",
     "grommet-controls": "^1.1.19",
     "grommet-icons": "^4.2.0",
